@@ -5,7 +5,7 @@ from PIL import Image
 import json
 
 # Load model
-model = tf.keras.models.load_model("cnn_food.h5")
+model = tf.keras.models.load_model("your_model.h5")
 
 with open("class_names.json", "r") as f:
     class_names = json.load(f)
