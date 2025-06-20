@@ -1,4 +1,4 @@
-## 🍛 Indian Food Classification using CNN and Pretrained Models
+## Indian Food Classification using CNN and Pretrained Models
 This project focuses on classifying Indian food images into 80 different categories using deep learning techniques. The model is built using Convolutional Neural  Networks (CNN) and further enhanced with pretrained models like EfficientNet, ResNet, and MobileNet for improved accuracy.
 
 ## Dataset
