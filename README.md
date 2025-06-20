@@ -63,10 +63,10 @@ These models were used with **include_top=False** and **custom classification he
 **6. **Results & Model Comparison****  
 
    **Model	Train Accuracy**	  
-  • EfficientNetB0	~90%	Highest (~60-70%)	Best generalization, least overfitting  
-  • ResNet50	~98%	Medium (~55–60%)	Good, but not as strong as EfficientNet  
-  • MobileNetV2	~97%	Lower (~50–60%)	Lightweight, faster, but less accurate   
-  • Custom CNN	~99%	Low (~23%)	Severe overfitting, weak validation  
+  • EfficientNetB0	~85%	Training Accuracy, (~60-70%) Validation ; Best generalization, least overfitting  
+  • ResNet50	~91%	Training Accuracy, (~55–60%)	Validation ; Good, but not as strong as EfficientNet  
+  • MobileNetV2	~51%	Training Accuracy, (~50–60%)	Validation ; Lightweight, faster, but less accurate   
+  • Custom CNN	~99% Training Accuracy,Low (~23%)	Validation ; Severe overfitting, weak validation  
 
 **EfficientNet outperformed** all models with the best validation accuracy and stability.  
 
