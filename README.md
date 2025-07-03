@@ -8,6 +8,7 @@ This project focuses on classifying Indian food images into 80 different categor
     **Split**: 80% Training (3200 images), 20% Validation (800 images)  
     **Image Size**: Resized to (224, 224)  
     #for Custom_CNN it was resized to (128,128) to reduce time  
+    **LINK** for dataset :- https://drive.google.com/file/d/1AFl3-08Sv1LLi371qZKb4A9BDC7byK5d/view?usp=drive_link
 
 The dataset is loaded using **image_dataset_from_directory from TensorFlow.**  
 
